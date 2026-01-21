@@ -1,0 +1,14 @@
+# Environment variables & secrets
+.env
+.env.*
+secrets.toml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Optional but very common – Python bytecode/cache (recommended)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
