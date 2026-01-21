@@ -13,9 +13,9 @@ Click the badge above to launch the interactive dashboard!
 
 ## Project Overview
 
-Analyzed **one year** of daily Bitcoin and Ethereum data (Jan 14, 2025 – Jan 13, 2026):
+Analyzed one year of daily Bitcoin and Ethereum data (Jan 14, 2025 – Jan 13, 2026):
 
-- Fetched historical prices, volumes, market caps via **CoinGecko Demo API** (free tier, 365-day limit)
+- Fetched historical prices, volumes, market caps via CoinGecko Demo API (free tier, 365-day limit)
 - Simulated realistic transactional metrics: transaction_count, avg_txn_fee_usd, total_txn_value_usd (proxy for daily fee throughput)
 - Computed daily returns and 14-day rolling volatility
 - Performed cleaning, EDA, MySQL SQL analysis, Prophet forecasting, and built an interactive Streamlit dashboard
