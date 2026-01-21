@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -197,10 +191,3 @@ with tab4:
 # Footer
 st.markdown("---")
 st.caption("Data period: 2025-01-14 to 2026-01-13 | Simulated transactional metrics | Built with Streamlit")
-
-
-# In[ ]:
-
-
-
-
