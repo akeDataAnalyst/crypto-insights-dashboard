@@ -3,6 +3,20 @@
 
 End-to-end portfolio project demonstrating full data analytics workflow — from API ingestion to interactive dashboard.
 
+## Live Demo
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Open%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://crypto-insights-dashboard-gzzwrbrp3enttzaqfhlrwq.streamlit.app/)
+
+Click the badge above to launch the interactive dashboard!
+
+<p align="center">
+  <a href="https://your-app-name.streamlit.app">
+    <img src="https://your-screenshot-url.com/dashboard-screenshot.png" alt="Crypto Insights Dashboard Screenshot" width="800"/>
+  </a>
+</p>
+
+**Features**: Coin filter · Date range · Price trends · Volatility charts · Prophet forecast · Top transaction days table
+
 ## Project Overview
 
 Analyzed **one year** of daily Bitcoin and Ethereum data (Jan 14, 2025 – Jan 13, 2026):
