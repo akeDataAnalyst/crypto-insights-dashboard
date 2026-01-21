@@ -9,12 +9,6 @@ End-to-end portfolio project demonstrating full data analytics workflow — from
 
 Click the badge above to launch the interactive dashboard!
 
-<p align="center">
-  <a href="https://your-app-name.streamlit.app">
-    <img src="https://your-screenshot-url.com/dashboard-screenshot.png" alt="Crypto Insights Dashboard Screenshot" width="800"/>
-  </a>
-</p>
-
 **Features**: Coin filter · Date range · Price trends · Volatility charts · Prophet forecast · Top transaction days table
 
 ## Project Overview
